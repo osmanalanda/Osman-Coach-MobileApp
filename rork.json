@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "Osman Coach",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
